@@ -1,3 +1,10 @@
 {
-  "cSpell.words": ["nextjs", "zustand"]
+  "cSpell.words": [
+    "datasource",
+    "hookform",
+    "lucide",
+    "nextjs",
+    "prismadb",
+    "zustand"
+  ]
 }
